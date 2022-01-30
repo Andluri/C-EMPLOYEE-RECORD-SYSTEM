@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1642166584 source:e:\mini\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1642247513 source:f:\odd semester 1st year\classroom\fundamentals of computer science-theory (first year) a\mini project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
